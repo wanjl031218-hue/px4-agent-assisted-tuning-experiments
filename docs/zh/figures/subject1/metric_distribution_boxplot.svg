@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+<style>.grid{stroke:#d9dee7;stroke-width:1}.axis{stroke:#6b7280;stroke-width:1}.baseline{fill:#5470c6;stroke:#314f9b;stroke-width:1}.candidate{fill:#91cc75;stroke:#4b8f35;stroke-width:1}.base-line{stroke:#5470c6;fill:none;stroke-width:2.5}.cand-line{stroke:#91cc75;fill:none;stroke-width:2.5}.base-dot{fill:#5470c6}.cand-dot{fill:#91cc75}.whisker{stroke:#374151;stroke-width:1.2}.median{stroke:#111827;stroke-width:2}.mean{fill:#f59e0b;stroke:#92400e;stroke-width:1}</style>
+<text x="750.0" y="28.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="18px" font-weight="bold" fill="#222">科目 1 指标分布（n=10/组；箱体为四分位距）</text>
+<line class="grid" x1="78.0" x2="341.6" y1="478.0" y2="478.0"/>
+<text x="71.0" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="78.0" x2="341.6" y1="376.0" y2="376.0"/>
+<text x="71.0" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.020</text>
+<line class="grid" x1="78.0" x2="341.6" y1="274.0" y2="274.0"/>
+<text x="71.0" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.040</text>
+<line class="grid" x1="78.0" x2="341.6" y1="172.0" y2="172.0"/>
+<text x="71.0" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.060</text>
+<line class="grid" x1="78.0" x2="341.6" y1="70.0" y2="70.0"/>
+<text x="71.0" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.080</text>
+<text x="209.8" y="54.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">主轴 RMSE</text>
+<line class="whisker" x1="167.6" x2="167.6" y1="143.6" y2="407.0"/>
+<line class="whisker" x1="158.6" x2="176.6" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="158.6" x2="176.6" y1="407.0" y2="407.0"/>
+<rect class="baseline" x="149.6" y="251.4" width="36" height="102.0" rx="2"/>
+<line class="median" x1="149.6" x2="185.6" y1="322.5" y2="322.5"/>
+<circle class="mean" cx="167.6" cy="302.4" r="3.5"/>
+<line class="whisker" x1="257.2" x2="257.2" y1="161.3" y2="402.9"/>
+<line class="whisker" x1="248.2" x2="266.2" y1="161.3" y2="161.3"/>
+<line class="whisker" x1="248.2" x2="266.2" y1="402.9" y2="402.9"/>
+<rect class="candidate" x="239.2" y="287.6" width="36" height="92.0" rx="2"/>
+<line class="median" x1="239.2" x2="275.2" y1="348.1" y2="348.1"/>
+<circle class="mean" cx="257.2" cy="324.0" r="3.5"/>
+<text x="167.6" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">baseline</text>
+<text x="257.2" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">candidate</text>
+<line class="grid" x1="359.6" x2="623.2" y1="478.0" y2="478.0"/>
+<text x="352.6" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="359.6" x2="623.2" y1="376.0" y2="376.0"/>
+<text x="352.6" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.056</text>
+<line class="grid" x1="359.6" x2="623.2" y1="274.0" y2="274.0"/>
+<text x="352.6" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.112</text>
+<line class="grid" x1="359.6" x2="623.2" y1="172.0" y2="172.0"/>
+<text x="352.6" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.168</text>
+<line class="grid" x1="359.6" x2="623.2" y1="70.0" y2="70.0"/>
+<text x="352.6" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.224</text>
+<text x="491.4" y="54.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">最大超调</text>
+<line class="whisker" x1="449.2" x2="449.2" y1="143.6" y2="379.5"/>
+<line class="whisker" x1="440.2" x2="458.2" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="440.2" x2="458.2" y1="379.5" y2="379.5"/>
+<rect class="baseline" x="431.2" y="204.6" width="36" height="128.4" rx="2"/>
+<line class="median" x1="431.2" x2="467.2" y1="270.5" y2="270.5"/>
+<circle class="mean" cx="449.2" cy="270.2" r="3.5"/>
+<line class="whisker" x1="538.8" x2="538.8" y1="220.2" y2="399.9"/>
+<line class="whisker" x1="529.8" x2="547.8" y1="220.2" y2="220.2"/>
+<line class="whisker" x1="529.8" x2="547.8" y1="399.9" y2="399.9"/>
+<rect class="candidate" x="520.8" y="290.8" width="36" height="69.0" rx="2"/>
+<line class="median" x1="520.8" x2="556.8" y1="336.5" y2="336.5"/>
+<circle class="mean" cx="538.8" cy="323.9" r="3.5"/>
+<text x="449.2" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">baseline</text>
+<text x="538.8" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">candidate</text>
+<line class="grid" x1="641.2" x2="904.8" y1="478.0" y2="478.0"/>
+<text x="634.2" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="641.2" x2="904.8" y1="376.0" y2="376.0"/>
+<text x="634.2" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">1.080</text>
+<line class="grid" x1="641.2" x2="904.8" y1="274.0" y2="274.0"/>
+<text x="634.2" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">2.159</text>
+<line class="grid" x1="641.2" x2="904.8" y1="172.0" y2="172.0"/>
+<text x="634.2" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">3.239</text>
+<line class="grid" x1="641.2" x2="904.8" y1="70.0" y2="70.0"/>
+<text x="634.2" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">4.319</text>
+<text x="773.0" y="54.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">稳定时间</text>
+<line class="whisker" x1="730.8" x2="730.8" y1="143.6" y2="153.8"/>
+<line class="whisker" x1="721.8" x2="739.8" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="721.8" x2="739.8" y1="153.8" y2="153.8"/>
+<rect class="baseline" x="712.8" y="148.1" width="36" height="3.6" rx="2"/>
+<line class="median" x1="712.8" x2="748.8" y1="148.9" y2="148.9"/>
+<circle class="mean" cx="730.8" cy="149.6" r="3.5"/>
+<line class="whisker" x1="820.4" x2="820.4" y1="152.3" y2="161.3"/>
+<line class="whisker" x1="811.4" x2="829.4" y1="152.3" y2="152.3"/>
+<line class="whisker" x1="811.4" x2="829.4" y1="161.3" y2="161.3"/>
+<rect class="candidate" x="802.4" y="156.8" width="36" height="1.0" rx="2"/>
+<line class="median" x1="802.4" x2="838.4" y1="157.2" y2="157.2"/>
+<circle class="mean" cx="820.4" cy="157.3" r="3.5"/>
+<text x="730.8" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">baseline</text>
+<text x="820.4" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">candidate</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="478.0" y2="478.0"/>
+<text x="915.8" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="376.0" y2="376.0"/>
+<text x="915.8" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.043</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="274.0" y2="274.0"/>
+<text x="915.8" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.087</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="172.0" y2="172.0"/>
+<text x="915.8" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.130</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="70.0" y2="70.0"/>
+<text x="915.8" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.173</text>
+<text x="1054.6" y="54.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">speed RMS</text>
+<line class="whisker" x1="1012.4" x2="1012.4" y1="143.6" y2="359.3"/>
+<line class="whisker" x1="1003.4" x2="1021.4" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="1003.4" x2="1021.4" y1="359.3" y2="359.3"/>
+<rect class="baseline" x="994.4" y="309.6" width="36" height="44.5" rx="2"/>
+<line class="median" x1="994.4" x2="1030.4" y1="332.5" y2="332.5"/>
+<circle class="mean" cx="1012.4" cy="311.6" r="3.5"/>
+<line class="whisker" x1="1102.0" x2="1102.0" y1="261.1" y2="389.4"/>
+<line class="whisker" x1="1093.0" x2="1111.0" y1="261.1" y2="261.1"/>
+<line class="whisker" x1="1093.0" x2="1111.0" y1="389.4" y2="389.4"/>
+<rect class="candidate" x="1084.0" y="315.1" width="36" height="53.7" rx="2"/>
+<line class="median" x1="1084.0" x2="1120.0" y1="346.2" y2="346.2"/>
+<circle class="mean" cx="1102.0" cy="338.3" r="3.5"/>
+<text x="1012.4" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">baseline</text>
+<text x="1102.0" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">candidate</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="478.0" y2="478.0"/>
+<text x="1197.4" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="376.0" y2="376.0"/>
+<text x="1197.4" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.048</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="274.0" y2="274.0"/>
+<text x="1197.4" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.097</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="172.0" y2="172.0"/>
+<text x="1197.4" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.145</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="70.0" y2="70.0"/>
+<text x="1197.4" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.193</text>
+<text x="1336.2" y="54.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">HOLD 三维误差</text>
+<line class="whisker" x1="1294.0" x2="1294.0" y1="143.6" y2="367.0"/>
+<line class="whisker" x1="1285.0" x2="1303.0" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="1285.0" x2="1303.0" y1="367.0" y2="367.0"/>
+<rect class="baseline" x="1276.0" y="202.6" width="36" height="100.3" rx="2"/>
+<line class="median" x1="1276.0" x2="1312.0" y1="271.4" y2="271.4"/>
+<circle class="mean" cx="1294.0" cy="258.1" r="3.5"/>
+<line class="whisker" x1="1383.6" x2="1383.6" y1="223.3" y2="380.1"/>
+<line class="whisker" x1="1374.6" x2="1392.6" y1="223.3" y2="223.3"/>
+<line class="whisker" x1="1374.6" x2="1392.6" y1="380.1" y2="380.1"/>
+<rect class="candidate" x="1365.6" y="269.7" width="36" height="39.3" rx="2"/>
+<line class="median" x1="1365.6" x2="1401.6" y1="292.9" y2="292.9"/>
+<circle class="mean" cx="1383.6" cy="292.9" r="3.5"/>
+<text x="1294.0" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">baseline</text>
+<text x="1383.6" y="500.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">candidate</text>
+<text x="750.0" y="542.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="normal" fill="#4b5563">箱体：四分位距；横线：中位数；橙点：均值；须：最小/最大值</text>
+</svg>

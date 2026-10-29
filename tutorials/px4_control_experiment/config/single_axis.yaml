@@ -1,0 +1,20 @@
+px4_control_experiment:
+  ros__parameters:
+    scenario: single_axis
+    axis: north
+    displacement_m: 2.0
+    altitude_m: 3.0
+    initial_hold_s: 2.0
+    hold_s: 5.0
+    position_tolerance_m: 0.3
+    speed_tolerance_mps: 0.3
+    stable_duration_s: 1.0
+    takeoff_timeout_s: 45.0
+    response_timeout_s: 30.0
+    landing_timeout_s: 60.0
+    wall_stage_timeout_s: 180.0
+    message_timeout_s: 2.0
+    clock_topic: /clock
+    position_topic: /fmu/out/vehicle_local_position_v1
+    status_topic: /fmu/out/vehicle_status_v1
+    land_topic: /fmu/out/vehicle_land_detected

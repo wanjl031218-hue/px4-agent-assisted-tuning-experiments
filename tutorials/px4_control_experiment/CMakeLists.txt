@@ -1,0 +1,30 @@
+cmake_minimum_required(VERSION 3.8)
+project(px4_control_experiment)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
+  add_compile_options(-Wall -Wextra -Wpedantic)
+endif()
+
+find_package(ament_cmake REQUIRED)
+find_package(rclcpp REQUIRED)
+find_package(rcl_interfaces REQUIRED)
+find_package(px4_msgs REQUIRED)
+find_package(rosgraph_msgs REQUIRED)
+find_package(std_srvs REQUIRED)
+
+add_executable(control_experiment src/control_experiment.cpp)
+target_include_directories(control_experiment PRIVATE include)
+ament_target_dependencies(control_experiment rclcpp rcl_interfaces px4_msgs rosgraph_msgs std_srvs)
+install(TARGETS control_experiment DESTINATION lib/${PROJECT_NAME})
+install(DIRECTORY config DESTINATION share/${PROJECT_NAME})
+
+if(BUILD_TESTING)
+  enable_testing()
+  add_executable(mission_logic_test test/mission_logic_test.cpp)
+  target_include_directories(mission_logic_test PRIVATE include)
+  add_test(NAME mission_logic_test COMMAND mission_logic_test)
+endif()
+
+ament_package()

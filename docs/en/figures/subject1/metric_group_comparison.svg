@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+<style>.grid{stroke:#d9dee7;stroke-width:1}.axis{stroke:#6b7280;stroke-width:1}.baseline{fill:#5470c6;stroke:#314f9b;stroke-width:1}.candidate{fill:#91cc75;stroke:#4b8f35;stroke-width:1}.base-line{stroke:#5470c6;fill:none;stroke-width:2.5}.cand-line{stroke:#91cc75;fill:none;stroke-width:2.5}.base-dot{fill:#5470c6}.cand-dot{fill:#91cc75}.whisker{stroke:#374151;stroke-width:1.2}.median{stroke:#111827;stroke-width:2}.mean{fill:#f59e0b;stroke:#92400e;stroke-width:1}</style>
+<text x="750.0" y="28.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="18px" font-weight="bold" fill="#222">Subject 1: baseline 1.800 vs candidate 1.900 (n=10/group)</text>
+<line class="grid" x1="78.0" x2="341.6" y1="478.0" y2="478.0"/>
+<text x="71.0" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="78.0" x2="341.6" y1="376.0" y2="376.0"/>
+<text x="71.0" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.020</text>
+<line class="grid" x1="78.0" x2="341.6" y1="274.0" y2="274.0"/>
+<text x="71.0" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.040</text>
+<line class="grid" x1="78.0" x2="341.6" y1="172.0" y2="172.0"/>
+<text x="71.0" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.060</text>
+<line class="grid" x1="78.0" x2="341.6" y1="70.0" y2="70.0"/>
+<text x="71.0" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.080</text>
+<line class="axis" x1="78.0" x2="78.0" y1="70.0" y2="478.0"/>
+<line class="axis" x1="78.0" x2="341.6" y1="478.0" y2="478.0"/>
+<rect class="baseline" x="139.9" y="302.4" width="55.4" height="175.6" rx="2"/>
+<text x="167.6" y="294.4" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.0346</text>
+<line class="whisker" x1="167.6" x2="167.6" y1="143.6" y2="407.0"/>
+<line class="whisker" x1="159.6" x2="175.6" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="159.6" x2="175.6" y1="407.0" y2="407.0"/>
+<rect class="candidate" x="229.6" y="324.0" width="55.4" height="154.0" rx="2"/>
+<text x="257.2" y="316.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.0303</text>
+<line class="whisker" x1="257.2" x2="257.2" y1="161.3" y2="402.9"/>
+<line class="whisker" x1="249.2" x2="265.2" y1="161.3" y2="161.3"/>
+<line class="whisker" x1="249.2" x2="265.2" y1="402.9" y2="402.9"/>
+<text x="209.8" y="501.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">Main-axis RMSE</text>
+<text x="209.8" y="518.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#4b5563">m</text>
+<text x="209.8" y="539.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#374151">Change -12.34%</text>
+<line class="grid" x1="359.6" x2="623.2" y1="478.0" y2="478.0"/>
+<text x="352.6" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="359.6" x2="623.2" y1="376.0" y2="376.0"/>
+<text x="352.6" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.056</text>
+<line class="grid" x1="359.6" x2="623.2" y1="274.0" y2="274.0"/>
+<text x="352.6" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.112</text>
+<line class="grid" x1="359.6" x2="623.2" y1="172.0" y2="172.0"/>
+<text x="352.6" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.168</text>
+<line class="grid" x1="359.6" x2="623.2" y1="70.0" y2="70.0"/>
+<text x="352.6" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.224</text>
+<line class="axis" x1="359.6" x2="359.6" y1="70.0" y2="478.0"/>
+<line class="axis" x1="359.6" x2="623.2" y1="478.0" y2="478.0"/>
+<rect class="baseline" x="421.5" y="270.2" width="55.4" height="207.8" rx="2"/>
+<text x="449.2" y="262.2" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.1139</text>
+<line class="whisker" x1="449.2" x2="449.2" y1="143.6" y2="379.5"/>
+<line class="whisker" x1="441.2" x2="457.2" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="441.2" x2="457.2" y1="379.5" y2="379.5"/>
+<rect class="candidate" x="511.2" y="323.9" width="55.4" height="154.1" rx="2"/>
+<text x="538.8" y="315.9" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.0845</text>
+<line class="whisker" x1="538.8" x2="538.8" y1="220.2" y2="399.9"/>
+<line class="whisker" x1="530.8" x2="546.8" y1="220.2" y2="220.2"/>
+<line class="whisker" x1="530.8" x2="546.8" y1="399.9" y2="399.9"/>
+<text x="491.4" y="501.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">Max overshoot</text>
+<text x="491.4" y="518.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#4b5563">m</text>
+<text x="491.4" y="539.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#374151">Change -25.82%</text>
+<line class="grid" x1="641.2" x2="904.8" y1="478.0" y2="478.0"/>
+<text x="634.2" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="641.2" x2="904.8" y1="376.0" y2="376.0"/>
+<text x="634.2" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">1.080</text>
+<line class="grid" x1="641.2" x2="904.8" y1="274.0" y2="274.0"/>
+<text x="634.2" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">2.159</text>
+<line class="grid" x1="641.2" x2="904.8" y1="172.0" y2="172.0"/>
+<text x="634.2" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">3.239</text>
+<line class="grid" x1="641.2" x2="904.8" y1="70.0" y2="70.0"/>
+<text x="634.2" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">4.319</text>
+<line class="axis" x1="641.2" x2="641.2" y1="70.0" y2="478.0"/>
+<line class="axis" x1="641.2" x2="904.8" y1="478.0" y2="478.0"/>
+<rect class="baseline" x="703.1" y="149.6" width="55.4" height="328.4" rx="2"/>
+<text x="730.8" y="141.6" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">3.4764</text>
+<line class="whisker" x1="730.8" x2="730.8" y1="143.6" y2="153.8"/>
+<line class="whisker" x1="722.8" x2="738.8" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="722.8" x2="738.8" y1="153.8" y2="153.8"/>
+<rect class="candidate" x="792.8" y="157.3" width="55.4" height="320.7" rx="2"/>
+<text x="820.4" y="149.3" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">3.3944</text>
+<line class="whisker" x1="820.4" x2="820.4" y1="152.3" y2="161.3"/>
+<line class="whisker" x1="812.4" x2="828.4" y1="152.3" y2="152.3"/>
+<line class="whisker" x1="812.4" x2="828.4" y1="161.3" y2="161.3"/>
+<text x="773.0" y="501.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">Settling time</text>
+<text x="773.0" y="518.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#4b5563">s</text>
+<text x="773.0" y="539.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#374151">Change -2.36%</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="478.0" y2="478.0"/>
+<text x="915.8" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="376.0" y2="376.0"/>
+<text x="915.8" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.043</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="274.0" y2="274.0"/>
+<text x="915.8" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.087</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="172.0" y2="172.0"/>
+<text x="915.8" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.130</text>
+<line class="grid" x1="922.8" x2="1186.4" y1="70.0" y2="70.0"/>
+<text x="915.8" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.173</text>
+<line class="axis" x1="922.8" x2="922.8" y1="70.0" y2="478.0"/>
+<line class="axis" x1="922.8" x2="1186.4" y1="478.0" y2="478.0"/>
+<rect class="baseline" x="984.7" y="311.6" width="55.4" height="166.4" rx="2"/>
+<text x="1012.4" y="303.6" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.0707</text>
+<line class="whisker" x1="1012.4" x2="1012.4" y1="143.6" y2="359.3"/>
+<line class="whisker" x1="1004.4" x2="1020.4" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="1004.4" x2="1020.4" y1="359.3" y2="359.3"/>
+<rect class="candidate" x="1074.4" y="338.3" width="55.4" height="139.7" rx="2"/>
+<text x="1102.0" y="330.3" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.0593</text>
+<line class="whisker" x1="1102.0" x2="1102.0" y1="261.1" y2="389.4"/>
+<line class="whisker" x1="1094.0" x2="1110.0" y1="261.1" y2="261.1"/>
+<line class="whisker" x1="1094.0" x2="1110.0" y1="389.4" y2="389.4"/>
+<text x="1054.6" y="501.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">speed RMS</text>
+<text x="1054.6" y="518.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#4b5563">m/s</text>
+<text x="1054.6" y="539.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#374151">Change -16.06%</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="478.0" y2="478.0"/>
+<text x="1197.4" y="482.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.000</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="376.0" y2="376.0"/>
+<text x="1197.4" y="380.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.048</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="274.0" y2="274.0"/>
+<text x="1197.4" y="278.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.097</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="172.0" y2="172.0"/>
+<text x="1197.4" y="176.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.145</text>
+<line class="grid" x1="1204.4" x2="1468.0" y1="70.0" y2="70.0"/>
+<text x="1197.4" y="74.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9px" font-weight="normal" fill="#4b5563">0.193</text>
+<line class="axis" x1="1204.4" x2="1204.4" y1="70.0" y2="478.0"/>
+<line class="axis" x1="1204.4" x2="1468.0" y1="478.0" y2="478.0"/>
+<rect class="baseline" x="1266.3" y="258.1" width="55.4" height="219.9" rx="2"/>
+<text x="1294.0" y="250.1" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.1040</text>
+<line class="whisker" x1="1294.0" x2="1294.0" y1="143.6" y2="367.0"/>
+<line class="whisker" x1="1286.0" x2="1302.0" y1="143.6" y2="143.6"/>
+<line class="whisker" x1="1286.0" x2="1302.0" y1="367.0" y2="367.0"/>
+<rect class="candidate" x="1356.0" y="292.9" width="55.4" height="185.1" rx="2"/>
+<text x="1383.6" y="284.9" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#222">0.0876</text>
+<line class="whisker" x1="1383.6" x2="1383.6" y1="223.3" y2="380.1"/>
+<line class="whisker" x1="1375.6" x2="1391.6" y1="223.3" y2="223.3"/>
+<line class="whisker" x1="1375.6" x2="1391.6" y1="380.1" y2="380.1"/>
+<text x="1336.2" y="501.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="11px" font-weight="bold" fill="#222">HOLD max 3-D error</text>
+<text x="1336.2" y="518.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#4b5563">m</text>
+<text x="1336.2" y="539.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10px" font-weight="normal" fill="#374151">Change -15.80%</text>
+<rect class="baseline" x="560" y="531" width="14" height="14"/>
+<text x="580.0" y="542.0" text-anchor="start" font-family="Arial,sans-serif" font-size="11px" font-weight="normal" fill="#222">baseline</text>
+<rect class="candidate" x="700" y="531" width="14" height="14"/>
+<text x="720.0" y="542.0" text-anchor="start" font-family="Arial,sans-serif" font-size="11px" font-weight="normal" fill="#222">candidate</text>
+</svg>
