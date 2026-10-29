@@ -1,0 +1,33 @@
+=== GUEST ===
+wjl
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.5 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+7.0.0-38-generic
+=== PX4 ===
+v1.17.0
+d6f12ad1c4f70ad3230afd7d86e971421e02fef4
+ M boards/px4/sitl/default.px4board
+?? snapshot_time.txt
+?? src/modules/my_work_item/
+=== PACKAGES ===
+gz-sim8-cli	8.15.0-1~noble
+open-vm-tools	2:13.0.10-0ubuntu0.24.04.1
+ros-jazzy-desktop	0.11.0-1noble.20260907.041521
+ros-jazzy-ros-base	0.11.0-1noble.20260903.024458
+ros-jazzy-ros-gz-bridge	1.0.24-1noble.20260921.043401
+=== ROS ===
+jazzy
+=== TASK BUILDS ===
+control_experiment build=2026-10-14-v3; scenario=%s axis=%s offset=%.2fm altitude=%.2fm hold=%.1f SIM seconds
+A/B mission build=2026-10-22-r9; ROS recording enabled; waiting for safe start conditions. Defaults: A=(%.1f, %.1f), B=(%.1f, %.1f), altitude=%.1f m, task=%.1f s

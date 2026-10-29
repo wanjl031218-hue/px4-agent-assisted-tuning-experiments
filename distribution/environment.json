@@ -1,0 +1,23 @@
+{
+  "snapshot_date": "2026-10-29",
+  "host_arch": "arm64",
+  "host_macos": "26.6.1",
+  "vmware_fusion": "13.6.4",
+  "vm_hardware_version": 21,
+  "guest_os": "Ubuntu 24.04.5 LTS",
+  "guest_arch": "ARM64",
+  "guest_kernel": "7.0.0-38-generic",
+  "vcpus": 5,
+  "memory_mb": 5000,
+  "px4_version": "v1.17.0",
+  "px4_commit": "d6f12ad1c4f70ad3230afd7d86e971421e02fef4",
+  "px4_worktree": "modified: boards/px4/sitl/default.px4board; untracked: snapshot_time.txt and src/modules/my_work_item/",
+  "gazebo_sim": "8.15.0-1~noble",
+  "ros_distro": "jazzy",
+  "ros_gz_bridge": "1.0.24-1noble.20260921.043401",
+  "control_experiment_build": "2026-10-14-v3",
+  "ab_mission_build": "2026-10-22-r9",
+  "guest_login_verified": true,
+  "normal_shutdown_verified": true,
+  "flight_after_import_verified": false
+}
