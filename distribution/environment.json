@@ -19,5 +19,10 @@
   "ab_mission_build": "2026-10-22-r9",
   "guest_login_verified": true,
   "normal_shutdown_verified": true,
-  "flight_after_import_verified": false
+  "flight_after_import_verified": false,
+  "virtual_disk_gib": 70,
+  "archive_bytes": 35430763970,
+  "archive_parts": 18,
+  "archive_stream_verified": true,
+  "guest_password_published_with_owner_authorization": true
 }

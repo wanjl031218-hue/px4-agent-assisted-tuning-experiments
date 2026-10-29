@@ -48,6 +48,10 @@ The first comparison tested **`MPC_XY_VEL_P_ACC: 1.800 → 1.900`**.
 
 **The candidate was not accepted as an overall improvement; rollback to 1.800 is recommended.** The experiment establishes the analysis-and-retest workflow, but does not demonstrate consistent improvement or a tuning-efficiency advantage. Results are limited to the tested SITL conditions. English reports are concise editions; detailed per-run tables remain in the Chinese reports.
 
-## Ubuntu environment download
+## Prepared Ubuntu VM for Apple Silicon Macs
 
-A prepared Ubuntu VM is planned; **no image is available yet**. The image will be distributed separately from Git history, with a download link, import instructions and checksum. The current environment is ARM64 and requires compatible hardware and virtualization software. See the [distribution plan](docs/en/VM_DISTRIBUTION.md).
+The author's **Ubuntu 24.04.5 ARM64** experiment VM has been packaged for **Apple Silicon Macs using VMware Fusion**. Verified configuration: Fusion **13.6.4**, 5 virtual CPUs, 5,000 MB RAM and a 70 GiB virtual disk; PX4 **v1.17.0**, Gazebo **8.15.0** and ROS 2 **Jazzy**. This is not an Intel Mac or x86 PC image.
+
+**Upload status: pending.** The 35.4 GB archive is split into 18 parts; no complete public VM download is available yet. VM attachments will be distributed through a GitHub Release. The [`vm-distribution` branch](https://github.com/wanjl031218-hue/px4-agent-assisted-tuning-experiments/tree/vm-distribution) stores the environment manifest and import instructions.
+
+See the [English import guide](docs/en/VM_DISTRIBUTION.md) or [中文导入说明](docs/zh/VM_DISTRIBUTION.md) for verified versions, login, checksums, disk requirements and extraction commands. VM boot/login and archive integrity were verified; a fresh-import flight test remains pending.

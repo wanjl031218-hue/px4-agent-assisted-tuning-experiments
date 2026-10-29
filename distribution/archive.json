@@ -1,0 +1,25 @@
+{
+  "input_bytes": 67392942080,
+  "compressed_bytes": 35430763970,
+  "parts": [
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part000",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part001",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part002",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part003",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part004",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part005",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part006",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part007",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part008",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part009",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part010",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part011",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part012",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part013",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part014",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part015",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part016",
+    "PX4_Ubuntu_ARM64_2026-10-29.tar.gz.part017"
+  ],
+  "elapsed_s": 275.84062445900054
+}

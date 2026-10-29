@@ -11,4 +11,4 @@
 
 These are concise English editions. Detailed per-run tables are retained in the [Chinese reports](../zh/README.md). Figures in this section use English labels. The overall candidate decision is `not_improved`; rollback to `MPC_XY_VEL_P_ACC=1.800` is recommended.
 
-[Planned Ubuntu VM distribution](VM_DISTRIBUTION.md)
+[Ubuntu VM import guide](VM_DISTRIBUTION.md)

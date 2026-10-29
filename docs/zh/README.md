@@ -14,4 +14,4 @@
 
 英文报告为精简版，逐运行明细以中文报告为准。科目 3 的早期分析属于过程记录，不替代最终对比结论。
 
-[Ubuntu 虚拟机发布方案](VM_DISTRIBUTION.md)
+[Ubuntu 虚拟机导入说明](VM_DISTRIBUTION.md)
